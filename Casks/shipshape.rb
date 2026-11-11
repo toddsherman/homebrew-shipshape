@@ -1,6 +1,6 @@
 cask "shipshape" do
-  version "0.3.34"
-  sha256 "78fee5ac6a3446fab5784a92c2625a2b7ee18b3ab939a681130e2f5e989aafb4"
+  version "0.3.35"
+  sha256 "2514ba27462123b2bc28f6c16b915bdde7e73b9c35fa00570657a3e9e9294a20"
 
   url "https://github.com/toddsherman/shipshape/releases/download/v#{version}/Shipshape-#{version}.dmg"
   name "Shipshape"
